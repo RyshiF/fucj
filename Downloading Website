@@ -1,0 +1,414 @@
+
+local RandomWait = math.random(0.5,1.2)
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+
+print("----------------------------------------------------------------") -- prints the number
+warn("Executed Doors Tools! Please Wait! We Are Doing Our Stuff, Do Not Execute More Than One Times!")
+wait(3)
+print("0%   | Connecting To The Content's Website Server: fucj/new/main") -- prints the number
+wait(2.5)
+print("100% | Connected! Getting The Content From Content's Website...") -- prints the number
+print("----------------------------------------------------------------") -- prints the number
+print("0%   | Download Speed: Null B/s") -- prints the number
+wait(0.5)
+print("1%   | Download Speed: ",randomNum1," B/s") -- prints the number
+wait(RandomWait)
+print("2%   | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("3%   | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("4%   | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("5%   | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("6%   | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("7%   | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("8%   | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("9%   | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("10%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("11%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("12%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("13%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("14%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("15%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("16%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("17%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("18%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("19%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("20%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("21%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("22%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("23%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("24%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("25%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("26%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("27%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("28%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("29%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("30%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("31%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("32%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("33%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("34%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("35%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("36%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("37%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("38%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("39%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("40%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("41%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("42%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("43%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("44%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("45%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("46%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("47%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("48%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("49%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("50%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("51%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("52%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("53%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("54%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("55%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("56%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("57%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("58%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("59%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("60%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("61%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("62%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("63%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("64%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("65%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("66%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("67%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("68%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("69%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("70%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("71%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("72%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("73%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("74%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("75%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("76%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("77%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("78%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("79%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("80%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("81%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("82%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("83%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("84%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("85%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("86%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("87%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("88%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("89%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("90%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("90%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("91%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("92%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("93%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("94%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("95%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("96%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("97%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("98%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(RandomWait)
+print("99%  | Download Speed: ",randomNum1," B/s") -- prints the number
+local randomNum1 = math.random(2,5000) -- we call this IN THE FUNCTION, not outside.
+local RandomWait = math.random(0.5,1.2)
+wait(4)
+print("100% | Download Speed: ",randomNum1," B/s") -- prints the number
+wait(2.5)
+warn("Completed Download Script From Website, Continue...")
