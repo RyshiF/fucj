@@ -650,7 +650,7 @@ local Entities = {
 			local Attachment = Instance.new("Attachment", Eyes)
 
 			local Spark = Instance.new("ParticleEmitter", Attachment)
-			Spark.Texture = "rbxassetid://2581223252"
+			Spark.Texture = "rbxassetid://12409937936"
 			Spark.Color = ColorSequence.new{
 				ColorSequenceKeypoint.new(0, Color3.fromRGB(25, 11, 39)),
 				ColorSequenceKeypoint.new(0.324, Color3.fromRGB(32, 14, 22)),
