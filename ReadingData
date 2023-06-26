@@ -402,7 +402,7 @@ wait(RandomWait)
 print("99%  | Read Speed: ",randomNum1," KB/s") -- prints the number
 local randomNum1 = math.random(10,400) -- we call this IN THE FUNCTION, not outside.
 local RandomWait = math.random(0.2,0.5)
-wait(4)
+wait(1)
 print("100% | Read Speed: ",randomNum1," KB/s") -- prints the number
-wait(2.5)
+wait(2)
 warn("Completed Read Entities Data, Continue...")
