@@ -408,7 +408,7 @@ wait(RandomWait)
 print("99%  | Download Speed: ",randomNum1," B/s") -- prints the number
 local randomNum1 = math.random(1000,8000) -- we call this IN THE FUNCTION, not outside.
 local RandomWait = math.random(0.3,0.8)
-wait(4)
+wait(1.2)
 print("100% | Download Speed: ",randomNum1," B/s") -- prints the number
-wait(2.5)
+wait(1.5)
 warn("Completed Download Script From Website, Continue...")
